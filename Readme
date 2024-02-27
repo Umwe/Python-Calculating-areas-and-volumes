@@ -17,6 +17,7 @@ Content:	Calculate	volume	and	display	calculation	results.
 Content:	Create	3	instances	of	square	as	above,	add	them	to	global	list	‘squares’
 □ play()
 Content:	Summarize	the	contents	to	be	executed.
+
 【Executed outcome】
 vertical horizontal height
 3 4 5
