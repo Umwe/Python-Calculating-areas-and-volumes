@@ -1,0 +1,30 @@
+Calculating areas and volume
+
+
+
+Let’s calculate and display the area and the deposition.
+Area can be calculated with ‘vertical * horizontal’ and volume can be calculated by 'area * height’.
+Calculate the three areas and volumes using the information in the table below.
+Rectangular Class is a child class of Rectangle Class.
+Functions to make are as below
+□ calc_area() *Rectangle Class
+Parameter:	self
+Content:	Calculate	area	and	display	calculation	results.
+□ calc_volume() *Rectangular Class
+Parameter:	self
+Content:	Calculate	volume	and	display	calculation	results.
+□ create_instance()
+Content:	Create	3	instances	of	square	as	above,	add	them	to	global	list	‘squares’
+□ play()
+Content:	Summarize	the	contents	to	be	executed.
+【Executed outcome】
+vertical horizontal height
+3 4 5
+50 60 70
+333 444 555
+Area is 12
+Volume is 60
+Area is 3000
+Volume is 210000
+Area is 147852
+Volume is 82057860
